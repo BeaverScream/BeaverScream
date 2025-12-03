@@ -12,7 +12,7 @@ Third-year BCS student bringing **7+ years of professional experience** as an **
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Programming** | **Python**, **TypeScript**, JavaScript, SQL, **MATLAB**, C++, C |
+| **Programming** | **Python**, **TypeScript (and JS)**, **Java**, SQL, **MATLAB**, C++, C |
 | **Backend/Frameworks** | **Node.js**, **Express**, **Flask**, PostgreSQL |
 | **Frontend/UI** | **React**, HTML/CSS, Vite |
 | **Database** | **PostgreSQL** (Relational DB), **SQLite** (Embedded DB), FAISS (Vector Index) |
@@ -60,6 +60,15 @@ Developed a practical Python/Flask utility that automates monthly financial **ET
 * **Data Processing:** The tool cleans, standardizes, and securely uploads multi-bank CSV transaction data to Google Sheets via the **Service Account API**.
 * **Utility:** Provides a reliable, automated solution used monthly to enforce consistency and categorization across different banking formats.
 * **Technologies:** Python, Flask, Google Sheets API.
+
+### 5️⃣ ExpenseLedger (Java Desktop Application) **[[Repo Link]](https://github.com/BeaverScream/ExpenseLedger)**
+
+A standalone desktop application built in Java to record, manage, and summarize personal expense items across multiple user-defined ledger pages.
+
+* **OOP & Persistence:** Utilized **Java's OOP principles** to model the Ledger Page/Expense Item hierarchy and implemented robust **File I/O** for saving and loading the entire application state.
+* **Data Summarization:** Provided essential **spending summaries** (total amount, max spending, spending per category) to help users review habits, demonstrating data processing skills.
+* **[Repo Link]**
+* **Technologies:** Java, Java GUI, File I/O.
 
 ---
 
