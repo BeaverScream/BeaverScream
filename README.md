@@ -35,28 +35,26 @@ Built an intelligent recipe recommendation engine that translates user's natural
 
 ### 2️⃣ UBC Campus Explorer (Software Architecture/Full-Stack) **[[Public Readme Link]](https://github.com/BeaverScream/UBC-Campus-Explorer-README)** (Code private due to academic policy)
 
-Engineered a full-stack system in **TypeScript** (React/Express) to ingest, query, and dynamically visualize complex campus room and building data on an interactive map.
+Engineered a full-stack system in **TypeScript** (React/Express) to dynamically visualize UBC campus room and building data using an interactive map and sidebar panel.
 
 * **Architecture & Design:** Implemented a robust, layered architecture applying principles like **Facade** and **Strategy patterns** alongside a custom **Query Validation/Execution Engine**.
-* **Quality:** Demonstrated rigorous development practices through comprehensive **Unit/Integration Testing** (Mocha/Chai), directly applying principles learned from system validation experience.
+* **Quality:** Demonstrated design practices such as SOLID and applying design patterns learned in the class. Extensive **Unit Testing** was completed by using (Mocha/Chai). Some **Backend Integration
+ Testing** was done as well.
 * **Technologies:** TypeScript, React, Express/Node.js, Leaflet, Mocha/Chai.
 
 ### 3️⃣ Space Game Database Demo (Advanced SQL/Backend) **[[Repo Link]](https://github.com/BeaverScream/Space_resource_management_game_demo)**
 
 Designed, modeled, and containerized the core **PostgreSQL** database and API for a persistent, multiplayer space simulation game.
 
-* **Database Design:** Implemented a complex relational schema 
-
- and enforced data integrity using Foreign Keys, UNIQUE, and NOT NULL constraints.
-* **Advanced SQL:** Executed all 10 required database operations, including complex **DIVISION** and **NESTED AGGREGATIONS** to support challenging game logic and reporting.
-* **System:** Managed the full data lifecycle from schema design to secure **Authentication**.
-* **Technologies:** PostgreSQL, Node.js/Express.
+* **Database Design:** Implemented a complex relational schema and enforced data integrity using Foreign Keys, UNIQUE, and NOT NULL constraints.
+* **Advanced SQL:** Executed complicated database operations including complex **DIVISION** and **NESTED AGGREGATIONS** to support challenging game logic and reporting.
+* **Technologies:** PostgreSQL, Node.js/Express, Typescript
 
 ### 4️⃣ SpendingTracker (Data Utility/Backend) **[[Repo Link]](https://github.com/BeaverScream/SpendingTracker)**
 
 Developed a practical Python/Flask utility that automates monthly financial **ETL (Extract, Transform, Load)** for household budgeting.
 
-* **Data Processing:** The tool cleans, standardizes, and securely uploads multi-bank CSV transaction data to Google Sheets via the **Service Account API**.
+* **Data Processing:** The tool cleans, standardizes, and securely uploads bank CSV transaction data to Google Sheets via the **Google spreadsheet API**.
 * **Utility:** Provides a reliable, automated solution used monthly to enforce consistency and categorization across different banking formats.
 * **Technologies:** Python, Flask, Google Sheets API.
 
@@ -66,7 +64,6 @@ A standalone desktop application built in Java to record, manage, and summarize 
 
 * **OOP & Persistence:** Utilized **Java's OOP principles** to model the Ledger Page/Expense Item hierarchy and implemented robust **File I/O** for saving and loading the entire application state.
 * **Data Summarization:** Provided essential **spending summaries** (total amount, max spending, spending per category) to help users review habits, demonstrating data processing skills.
-* **[Repo Link]**
 * **Technologies:** Java, Java GUI, File I/O.
 
 ---
