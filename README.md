@@ -14,7 +14,7 @@ Third-year BCS student bringing **7+ years of professional experience** as an **
 | :--- | :--- |
 | **Programming** | **Python**, **TypeScript (and JS)**, **Java**, SQL, **MATLAB**, C++, C |
 | **Backend/Frameworks** | **Node.js**, **Express**, **Flask**, PostgreSQL |
-| **Frontend/UI** | **React**, HTML/CSS, Vite |
+| **Frontend/UI** | **React**, Next.js, HTML/CSS, Vite |
 | **Database** | **PostgreSQL** (Relational DB), **SQLite** (Embedded DB), FAISS (Vector Index) |
 | **Testing/Tools** | **Mocha**, **Chai**, **MATLAB Scripts** (for data analysis), Jupyter Notebook |
 | **Other** | JIRA, Git |
